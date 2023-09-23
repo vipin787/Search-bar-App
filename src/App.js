@@ -17,9 +17,13 @@ function App() {
         <SearchBar />
 
         <div>SearchResults</div>
+        <div>SearchResults</div>
+        <div>SearchResults</div>
       </div>
     </div>
   );
 }
 
 export default App;
+
+
